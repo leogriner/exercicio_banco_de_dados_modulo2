@@ -2,7 +2,7 @@
 
 <div align="center">
 <sub>Figura 1: Modelo Banco de Dados</sub>
-<img src="../assets/wad/modelagem_banco_de_dados.png" style="width:90%"><br>
+<img src="../assets/modelagem_banco_de_dados.png" style="width:90%"><br>
 <sup>Fonte: Autoria (2024)</sup>
 </div>
 
