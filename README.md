@@ -1,9 +1,9 @@
 # exercicio_banco_de_dados_modulo2
 
 <div align="center">
-<sub>Figura 41: Modelo relacional</sub>
+<sub>Figura 1: Modelo Banco de Dados</sub>
 <img src="../assets/wad/modelagem_banco_de_dados.png" style="width:90%"><br>
-<sup>Fonte: Autores (2024)</sup>
+<sup>Fonte: Autoria (2024)</sup>
 </div>
 
 
